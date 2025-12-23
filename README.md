@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7F5AF0&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Eva+B.+Villapus;Software+Developer+%7C+Learner+%26+Creator;Building+Awesome+Projects+%26+Learning+Daily" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7F5AF0&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Eva+B.+Villapus;Information+Technology+Student+%7C+Learner+%26+Creator;Building+Awesome+Projects+%26+Learning+Daily" alt="Typing SVG"/>
 </div>
 
 <!-- Banner -->
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Mindset-Curious%20%7C%20Problem%20Solver-orange?style=for-the-badge&logo=lightbulb&logoColor=white"/>
 </div>
 
-I’m a **Software Developer** and lifelong learner who enjoys building **web, mobile, and machine-learning projects**.  
+I’m an **Information Technology Student** and lifelong learner who enjoys building **web, mobile, and machine-learning projects**.  
 I focus on writing clean code, learning by doing, and turning ideas into real applications.
 
 ---
@@ -66,14 +66,17 @@ class EvaVillapus:
 </div>
 
 ### 📊 GitHub Stats
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=evabalingitvillapus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evabalingitvillapus&layout=compact&theme=tokyonight&langs_count=8"/> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evabalingitvillapus&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evabalingitvillapus&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
 ### 💻 Featured Projects
-Project	Description
-Python practice and basic exercises
-VILLAPUS_IT120_Act1	Git & Python coursework
-Flutter_Widget_UIComponents	Flutter UI widgets and layouts
-Villapus_SnakeSpecies_Classification_FinalProject	ML-based Snake Species Classifier
+Project	Description <br/>
+Python practice and basic exercises <br/>
+VILLAPUS_IT120_Act1	Git & Python coursework <br/>
+Flutter_Widget_UIComponents	Flutter UI widgets and layouts <br/>
+Villapus_SnakeSpecies_Classification_FinalProject	ML-based Snake Species Classifier 
 
 ### 📫 Connect With Me
 <div align="center">
@@ -95,8 +98,10 @@ Villapus_SnakeSpecies_Classification_FinalProject	ML-based Snake Species Classif
 </div>
 
 <p align="center">
-  📧 evaughnmaebalingit@gmail.com <br/>
-  🌐 github.com/evabalingitvillapus
+   Gmail: evaughnmaebalingit@gmail.com <br/>
+   GitHub: github.com/evabalingitvillapus <br/>
+   Facebook: Eva Villapus <br/>
+   Instagram: evangggg09 <br/>
 </p>
 
 <div align="center"> <h3>🚀 Thanks for Visiting!</h3> <img src="https://komarev.com/ghpvc/?username=evabalingitvillapus&label=Profile%20Views&color=brightgreen&style=for-the-badge"/> <p>⭐ Star my repositories if you find them helpful!</p> </div> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div> 
