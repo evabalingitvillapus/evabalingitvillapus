@@ -23,7 +23,7 @@ I focus on writing clean code, learning by doing, and turning ideas into real ap
 
 ---
 
-## 💫 What Drives Me
+### 💫 What Drives Me
 
 ---
 
@@ -56,6 +56,8 @@ class EvaVillapus:
 ### 🧠 What I Do
 <div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/python.png"/> <h3>🐍 Python Development</h3> <p>Scripting, automation, backend logic, and ML experiments</p> </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/flutter.png"/> <h3>📱 Flutter Mobile Apps</h3> <p>UI components and cross-platform mobile apps</p> </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/> <h3>🤖 Machine Learning</h3> <p>Model training, classification, and deployment</p> </td> </tr> </table> </div>
 
+---
+
 ### 🛠 Language and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -80,6 +82,8 @@ class EvaVillapus:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
+---
 
 ### 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=evabalingitvillapus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&itle_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/toplangs/username=evabalingitvillapus&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=evabalingitvillapus&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF"/ </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=evabalingitvillapus&theme=reactdark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF"/> </div>
