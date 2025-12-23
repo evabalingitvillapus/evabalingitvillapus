@@ -56,24 +56,33 @@ class EvaVillapus:
 ### 🧠 What I Do
 <div align="center"> <table> <tr> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/python.png"/> <h3>🐍 Python Development</h3> <p>Scripting, automation, backend logic, and ML experiments</p> </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/flutter.png"/> <h3>📱 Flutter Mobile Apps</h3> <p>UI components and cross-platform mobile apps</p> </td> <td align="center" width="33%"> <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/> <h3>🤖 Machine Learning</h3> <p>Model training, classification, and deployment</p> </td> </tr> </table> </div>
 
-### 🔧 Tech Stack
-<div align="center">
-  💻 Languages & Frameworks
-
-  🤖 Backend / AI / Database
-
-  🛠 Tools & Platforms
+### 🛠 Language and tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ### 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=evabalingitvillapus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&itle_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/toplangs/username=evabalingitvillapus&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=evabalingitvillapus&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF"/ </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=evabalingitvillapus&theme=reactdark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF"/> </div>
-
-### 💻 Featured Projects
-Project	Description <br/>
-Python practice and basic exercises <br/>
-VILLAPUS_IT120_Act1	Git & Python coursework <br/>
-Flutter_Widget_UIComponents	Flutter UI widgets and layouts <br/>
-Villapus_SnakeSpecies_Classification_FinalProject	ML-based Snake Species Classifier 
 
 ### 📫 Connect With Me
 <div align="center">
