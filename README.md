@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7F5AF0&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Eva+B.+Villapus;Information+Technology+Student+%7C+Learner+%26+Creator;Building+Awesome+Projects+%26+Learning+Daily" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7F5AF0&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Eva+B.+Villapus;BSInfoTech+Student+%7C+Learner+%26+Creator;Building+Awesome+Projects+%26+Learning+Daily" alt="Typing SVG"/>
 </div>
 
 <!-- Banner -->
@@ -66,10 +66,7 @@ class EvaVillapus:
 </div>
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evabalingitvillapus&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evabalingitvillapus&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=evabalingitvillapus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&itle_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/toplangs/username=evabalingitvillapus&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=evabalingitvillapus&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF"/ </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=evabalingitvillapus&theme=reactdark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF"/> </div>
 
 ### 💻 Featured Projects
 Project	Description <br/>
